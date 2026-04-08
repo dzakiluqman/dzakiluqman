@@ -95,6 +95,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dzakiluqman&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzakiluqman&theme=radium&hide_border=true" alt="GitHub Streak" />
 </p>
 
