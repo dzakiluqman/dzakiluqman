@@ -18,14 +18,8 @@
 
 ### 🏆 Featured Repositories
 
-<p align="center">
-  <a href="https://github.com/dzakiluqman/TubeMod">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzakiluqman&repo=TubeMod&theme=radium&hide_border=true" alt="Featured Repo 1" />
-  </a>
-  <a href="https://github.com/dzakiluqman/Merantaw-Management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzakiluqman&repo=Merantaw-Management&theme=radium&hide_border=true" alt="Featured Repo 2" />
-  </a>
-</p>
+[**TubeMod**](https://github.com/dzakiluqman/TubeMod)
+[**Merantaw-Management**](https://github.com/dzakiluqman/Merantaw-Management)
 
 ---
 
