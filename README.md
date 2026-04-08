@@ -88,7 +88,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Top Languages
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dzakiluqman&bg_color=0D1117&color=0e75b6&line=0e75b6&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
@@ -96,9 +96,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dzakiluqman&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzakiluqman&theme=radium&hide_border=true" alt="GitHub Streak" />
 </p>
 
