@@ -19,7 +19,8 @@
 ### 🏆 Featured Repositories
 
 [**TubeMod**](https://github.com/dzakiluqman/TubeMod) <br>
-[**Merantaw-Management**](https://github.com/dzakiluqman/Merantaw-Management)
+[**Merantaw-Management**](https://github.com/dzakiluqman/Merantaw-Management) <br>
+[**Homiexide**](https://github.com/dzakiluqman/homiexide-web)
 
 ---
 
