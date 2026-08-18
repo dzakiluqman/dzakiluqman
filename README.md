@@ -98,6 +98,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzakiluqman&theme=radium&hide_border=true" alt="GitHub Streak" />
 </p>
 
+[![Dzakii Luqman Faid`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dzakiluqman&theme=react)](https://github.com/dzakiluqman/github-readme-activity-graph)
+
 ---
 
 ### 🤝 Connect with Me
