@@ -89,14 +89,46 @@
 
 ### 📊 GitHub Activity & Top Languages
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dzakiluqman&bg_color=0D1117&color=0e75b6&line=0e75b6&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-</p>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=dzakiluqman&bg_color=0D1117&color=0e75b6&line=0e75b6&point=FFFFFF&area=true&hide_border=true"
+  width="100%"
+  alt="Activity Graph"
+/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dzakiluqman&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzakiluqman&theme=radium&hide_border=true" alt="GitHub Streak" />
-</p>
+<br>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dzakiluqman&theme=transparent&animation=load"
+  width="100%"
+  alt="Profile Details"
+/>
+
+<br>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dzakiluqman&theme=transparent&animation=load"
+  width="49.5%"
+  alt="Repos Per Language"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dzakiluqman&theme=transparent&animation=load"
+  width="49.5%"
+  alt="Most Commit Language"
+/>
+
+<br>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dzakiluqman&theme=transparent&animation=load"
+  width="49.5%"
+  alt="GitHub Stats"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dzakiluqman&theme=transparent&animation=load&utcOffset=0"
+  width="49.5%"
+  alt="Productive Time"
+/>
+
 
 ---
 
