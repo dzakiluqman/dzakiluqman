@@ -18,23 +18,40 @@
 
 ### 🏆 Featured Repositories
 
-[**TubeMod**](https://github.com/dzakiluqman/TubeMod)  
-> A web-based YouTube comment moderation system built with Native PHP and the MVC architecture. It helps creators analyze and filter spam, online gambling promotions, and hate speech.
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/dzakiluqman/TubeMod">TubeMod</a></h3>
+      <p>A web-based YouTube comment moderation system built with Native PHP and the MVC architecture. It helps creators analyze and filter spam, online gambling promotions, and hate speech.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/dzakiluqman/TubeMod-Mobile">TubeMod Mobile</a></h3>
+      <p>A mobile companion application for TubeMod, designed to help users access and manage YouTube comment moderation features through a mobile interface.</p>
+    </td>
+  </tr>
 
-[**TubeMod Mobile**](https://github.com/dzakiluqman/TubeMod-Mobile)  
-> A mobile companion application for TubeMod, designed to help users access and manage YouTube comment moderation features through a mobile interface.
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/dzakiluqman/pranata-gatra">Pranata Gatra</a></h3>
+      <p>A mobile productivity application designed to help users manage tasks, schedules, subjects, and collaborative workspaces. Built with React Native, Expo, and Supabase.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/dzakiluqman/kasir-kedai-elvano">Kedai Elvano</a></h3>
+      <p>A mobile point-of-sale application designed to support product management, cashier operations, transactions, and sales reporting for Kedai Elvano.</p>
+    </td>
+  </tr>
 
-[**Merantaw-Management**](https://github.com/dzakiluqman/Merantaw-Management)  
-> A management system designed to support the organization and administration of projects, activities, and operational data for Merantaw Studio.
-
-[**Homiexide**](https://github.com/dzakiluqman/homiexide-web)  
-> A dedicated gaming community built around GTA San Andreas Multiplayer, specializing in serious roleplay and Music Label.
-
-[**Kedai Elvano**](https://github.com/dzakiluqman/kasir-kedai-elvano)  
-> A mobile point-of-sale application designed to support product management, cashier operations, transactions, and sales reporting for Kedai Elvano.
-
-[**Pranata Gatra**](https://github.com/dzakiluqman/pranata-gatra)  
-> A mobile productivity application designed to help users manage tasks, schedules, subjects, and collaborative workspaces. Built with React Native, Expo, and Supabase.
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/dzakiluqman/Merantaw-Management">Merantaw Management</a></h3>
+      <p>A management system designed to support the organization and administration of projects, activities, and operational data for Merantaw Studio.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/dzakiluqman/homiexide-web">Homiexide</a></h3>
+      <p>A dedicated gaming community built around GTA San Andreas Multiplayer, specializing in serious roleplay and Music Label.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
