@@ -18,10 +18,23 @@
 
 ### 🏆 Featured Repositories
 
-[**TubeMod**](https://github.com/dzakiluqman/TubeMod) <br>
-[**TubeMod Mobile**](https://github.com/dzakiluqman/TubeMod-Mobile) <br>
-[**Merantaw-Management**](https://github.com/dzakiluqman/Merantaw-Management) <br>
-[**Homiexide**](https://github.com/dzakiluqman/homiexide-web)
+[**TubeMod**](https://github.com/dzakiluqman/TubeMod)  
+> A web-based YouTube comment moderation system built with Native PHP and the MVC architecture. It helps creators analyze and filter spam, online gambling promotions, and hate speech.
+
+[**TubeMod Mobile**](https://github.com/dzakiluqman/TubeMod-Mobile)  
+> A mobile companion application for TubeMod, designed to help users access and manage YouTube comment moderation features through a mobile interface.
+
+[**Merantaw-Management**](https://github.com/dzakiluqman/Merantaw-Management)  
+> A management system designed to support the organization and administration of projects, activities, and operational data for Merantaw Studio.
+
+[**Homiexide**](https://github.com/dzakiluqman/homiexide-web)  
+> A dedicated gaming community built around GTA San Andreas Multiplayer, specializing in serious roleplay and Music Label.
+
+[**Kedai Elvano**](https://github.com/dzakiluqman/kasir-kedai-elvano)  
+> A mobile point-of-sale application designed to support product management, cashier operations, transactions, and sales reporting for Kedai Elvano.
+
+[**Pranata Gatra**](https://github.com/dzakiluqman/pranata-gatra)  
+> A mobile productivity application designed to help users manage tasks, schedules, subjects, and collaborative workspaces. Built with React Native, Expo, and Supabase.
 
 ---
 
