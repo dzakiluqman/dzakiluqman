@@ -124,45 +124,13 @@
 
 ### 📊 GitHub Activity & Top Languages
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=dzakiluqman&bg_color=0D1117&color=0e75b6&line=0e75b6&point=FFFFFF&area=true&hide_border=true"
-  width="100%"
-  alt="Activity Graph"
-/>
+<div align="center">
 
-<br>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dzakiluqman&theme=transparent&animation=load"
-  width="100%"
-  alt="Profile Details"
-/>
-
-<br>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dzakiluqman&theme=transparent&animation=load"
-  width="49.5%"
-  alt="Repos Per Language"
-/>
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dzakiluqman&theme=transparent&animation=load"
-  width="49.5%"
-  alt="Most Commit Language"
-/>
-
-<br>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dzakiluqman&theme=transparent&animation=load"
-  width="49.5%"
-  alt="GitHub Stats"
-/>
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dzakiluqman&theme=transparent&animation=load&utcOffset=0"
-  width="49.5%"
-  alt="Productive Time"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=dzakiluqman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dzakiluqman&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dzakiluqman&theme=tokyonight" width="49%" alt="Languages by Repository" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dzakiluqman&theme=tokyonight" width="49%" alt="Languages by Commits" />
+</div>
 
 
 ---
